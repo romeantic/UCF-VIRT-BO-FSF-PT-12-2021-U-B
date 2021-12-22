@@ -1,6 +1,6 @@
 # fullstack-online
 
-Welcome to the Coding Online Boot Camp! This repository houses the Coding Online curriculum and is divided into two pillars:
+Welcome to the Coding Online Boot Camp! This repository houses the Coding Online curriculum and is divided into two pillars
 
 * Student-facing class content
 
