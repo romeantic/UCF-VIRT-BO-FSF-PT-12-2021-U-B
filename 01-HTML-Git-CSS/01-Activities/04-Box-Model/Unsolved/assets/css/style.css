@@ -6,10 +6,17 @@ section {
 }
 
 img {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   background-color: lightblue;
+
   /* TODO: Add a margin property */
+  margin: width: 120px;
+  height: 120px; 
   /* TODO: Add a padding property */
+  padding: width: 150px;
+  height: 150px;
   /* TODO: Add a border property */
+  border: width: 20px;
+  height: 20px; 
 }
